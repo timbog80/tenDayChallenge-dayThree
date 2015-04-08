@@ -9,4 +9,4 @@ Bourbon.io:
 [Visit officail site](http://bourbon.io/)
 
 ![screenshots](assets/img/tops.png)
-![screenshots](assets/img/bottoms.png)
+![screenshots](assets/img/bottom.png)
